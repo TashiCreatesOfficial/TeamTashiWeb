@@ -1,5 +1,5 @@
 # TeamTashiWeb
 
-The offical team website for us!
+The offcial team website for us!
 
 https://tashicreatesofficial.github.io/TeamTashiWeb/
